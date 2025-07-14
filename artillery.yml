@@ -6,4 +6,4 @@ config:
 scenarios:
   - flow:
       - get:
-          url: "/stored-int"
+          url: "/storedInt"
